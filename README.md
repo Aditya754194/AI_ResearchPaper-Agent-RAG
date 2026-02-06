@@ -42,7 +42,7 @@ END
 ### Comprehensive Summary
 - **8 structured sections**: Overview, Background, Key Concepts, Technical Architecture, Applications, Research Trends, Challenges, Future Directions
 - **Wikipedia-style**: Encyclopedic, informative, and complete
-- **Based on 10 papers**: Synthesizes information from all retrieved papers
+- **Based on 5 papers**: Synthesizes information from all retrieved papers
 
 ### Individual Paper Summaries
 - **5-7 sentence summaries** covering:

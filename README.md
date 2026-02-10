@@ -56,4 +56,8 @@ END
 - **Chunking**: 500 tokens with 50-token overlap
 - **Top-5 retrieval**: Most relevant chunks for each query
 - **Source citations**: Shows which papers were used to answer
+  
+### Author
+- Aditya Kumar
+- GitHub: @Aditya754194
 

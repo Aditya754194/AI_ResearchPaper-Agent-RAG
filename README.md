@@ -56,6 +56,10 @@ END
 - **Chunking**: 500 tokens with 50-token overlap
 - **Top-5 retrieval**: Most relevant chunks for each query
 - **Source citations**: Shows which papers were used to answer
+### 📸 Screenshots
+![Topic Search Page](https://res.cloudinary.com/dccuxjsor/image/upload/v1770818358/Screenshot_2026-02-11_192159_mrbhwg.png)
+![Summary and Chatbot Page](https://res.cloudinary.com/dccuxjsor/image/upload/v1770818357/Screenshot_2026-02-11_192540_h54zxp.png)
+![Chatbot Answer page](https://res.cloudinary.com/dccuxjsor/image/upload/v1770818358/Screenshot_2026-02-11_192624_xqemtl.png)
   
 ### Author
 - Aditya Kumar
